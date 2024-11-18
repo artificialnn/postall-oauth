@@ -6,6 +6,6 @@
     "client_uri": "https://github.com/artificialnn/postall",
     "logo_uri": "https://artificialnn.github.io/postall-oauth/logo.png",
     "contacts": ["artificialreply@gmail.com"],
-    "token_endpoint_auth_method": "none"
+    "token_endpoint_auth_method": "none",
     "dpop_bound_access_tokens": true
 }
