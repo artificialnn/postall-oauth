@@ -3,7 +3,7 @@
     "client_name": "Postall",
     "redirect_uris": ["https://artificialnn.github.io/postallredirect/"],
     "scope": "atproto",
-    "client_uri": "https://github.com/artificialnn/postall",
+    "client_uri": "https://artificialnn.github.io/postall-oauth/",
     "logo_uri": "https://artificialnn.github.io/postall-oauth/logo.png",
     "contacts": ["artificialreply@gmail.com"],
     "token_endpoint_auth_method": "none",
