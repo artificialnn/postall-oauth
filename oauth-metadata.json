@@ -1,7 +1,7 @@
 {
     "client_id": "https://artificialnn.github.io/postall-oauth/oauth-metadata.json",
     "client_name": "Postall",
-    "redirect_uris": ["https://artificialnn.github.io/postallredirect/"],
+    "redirect_uris": ["postall://oauth/callback", "https://artificialnn.github.io/postallredirect/"],
     "scope": "atproto",
     "client_uri": "https://artificialnn.github.io/postall-oauth/",
     "logo_uri": "https://artificialnn.github.io/postall-oauth/logo.png",
